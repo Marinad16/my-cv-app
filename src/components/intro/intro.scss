@@ -1,0 +1,7 @@
+@import "src/scss/variables";
+
+.intro {
+  width: 100%;
+  height: calc(100vh - 70px);
+  background-color: $light;
+}
