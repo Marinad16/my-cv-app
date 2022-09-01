@@ -1,6 +1,6 @@
-import "./works.scss";
+import "./about.scss";
 
-const Works = () => {
+const About = () => {
   return (
     <section className="work" id="works">
       intro
@@ -8,4 +8,4 @@ const Works = () => {
   );
 };
 
-export default Works;
+export default About;
