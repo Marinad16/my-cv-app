@@ -1,7 +1,0 @@
-{
-<<<<<<< HEAD
-    "files.autoSave": "afterDelay"
-=======
-    "files.autoSave": "onFocusChange"
->>>>>>> dbac2c956715ad83e1f5cd3f429205bc911ef2b1
-}
